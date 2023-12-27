@@ -4,7 +4,7 @@ from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
-bot = Bot(token="6715751133:AAFnqBhs_ZeW8Vrz3E3x-OKOVIWzrwjP4zM")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
 sticker_folder_path = r"./"
